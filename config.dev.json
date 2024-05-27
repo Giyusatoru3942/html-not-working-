@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "assailantshangout@gmail.com",
-    "password": "45612378907282007",
+    "email": "giyusaturo264@gmail.com",
+    "password": "456123789",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,7 +18,7 @@
   },
   "adminBot": [
     "100079114908948",
-    "100078338836682",
+    "",
     ""
   ],
   "whiteListMode": {
@@ -29,9 +29,9 @@
   "OWNER": "Gab Yu",
   "AGE": "14",
   "GENDER": "MALE",
-  "nickNameBot": "𝗧𝗦𝗛𝗖 𝗕𝗢𝗧",
+  "nickNameBot": "𝗚𝗼𝗷𝗼 | ☣️",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=100079114908948",
-  "prefix": "/",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
